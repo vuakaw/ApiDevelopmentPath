@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "795b7655-469a-4844-9dc6-a08f2f8cce14": {
+      "ProjectGuid": "795b7655-469a-4844-9dc6-a08f2f8cce14",
+      "DisplayName": "CourseLibrary.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
