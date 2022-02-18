@@ -35,7 +35,7 @@ namespace CourseLibrary.API.Helpers
             }
             else
 
-            {
+            { 
                 // the fields are separated by "," so we split it.
                 var fieldsAfterSplit = fields.Split(',');
 
@@ -85,7 +85,6 @@ namespace CourseLibrary.API.Helpers
                 //add the expandoObject to the list
                 expandoObjectList.Add(dataShapedObject);
             }
-
             return expandoObjectList;
         }
     }
